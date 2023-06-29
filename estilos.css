@@ -1,0 +1,27 @@
+body{
+    background-color:#f8dbdc;
+    color: #a06ada;
+    font-family: 'Kalam', cursive;
+}
+h3 {
+    color: #ff958c;
+    font-size: 25px;
+}
+
+/* esto es un comentario */
+
+h1, p {
+    color: #c5c38f;
+}
+
+img {
+    width: 400px;
+    height: 300px;
+    border-style:groove double solid;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    padding: 20px;
+}
+a, small {
+    color: #603a4a;
+}
